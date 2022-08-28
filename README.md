@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com fornt-end
-- 🌱 Estudanto Typescript, Dart...
+- 🔭 Hoje trabalho com fornt-end (React)
 - 😄 Pronouns: ele/dele
 
 <div align="center">
