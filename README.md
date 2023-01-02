@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com fornt-end (React / Vue)
+- 🔭 Hoje trabalho com fornt-end (React / Vue / Angular)
 - 😄 Pronouns: ele/dele
 
 <div align="center">
